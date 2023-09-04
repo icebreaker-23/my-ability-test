@@ -1,0 +1,17 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: lightgray;
+  border: 1px solid rgb(24, 128, 93);
+  border-radius: 0.25rem;
+}
+
+.select-style {
+  width: 15rem !important;
+}
